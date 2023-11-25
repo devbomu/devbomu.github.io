@@ -1,0 +1,30 @@
+---
+layout: page
+title: Projects
+---
+<section class="list">
+    {% for post in site.posts %}
+        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+        
+        {% if forloop.first %}
+            <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+        {% endif %}
+        
+        {% if post.projects %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+        
+        {% if forloop.last %}
+        {% else %}
+            {% if this_year != next_year %}
+                <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</section>
