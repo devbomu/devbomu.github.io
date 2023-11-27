@@ -7,6 +7,8 @@ layout: page
 <p>Hello.<br />This is Bomu, a front-end developer.<br />
 I am studying computer science at Kumoh National Institute of Technology, and I enjoy watching Twitch streamer Woowakgood.</p>
 
+<p>Email: me@bomu.dev</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
