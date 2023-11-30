@@ -20,7 +20,8 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://devbomu.github.io
+url: https://blog.bomu.dev
+# url: https://devbomu.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
