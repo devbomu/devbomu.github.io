@@ -1,9 +1,9 @@
 # main text of home
-title: Bomu's blog
+title: Bomu's page
 bio: Front-end Developer :)
 
 # twitter summary info
-description: A blog about my projects, studies, etc.
+description: A page that contains my blog, projects, etc.
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,7 +20,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://blog.bomu.dev
+url: https://bomu.dev
 # url: https://devbomu.github.io
 # your url: https://USERNAME.github.io
 
