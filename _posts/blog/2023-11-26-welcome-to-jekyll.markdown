@@ -1,12 +1,13 @@
 ---
 title: "Welcome to Jekyll!"
 layout: post
-date: 2023-11-26 02:28:11 +09:00
+date: 2023-11-26 02:28 +09:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - welcome
 category: blog
+permalink: /blog/:title
 author: bomu
 description: Markdown summary with different options
 ---

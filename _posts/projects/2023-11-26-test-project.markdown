@@ -1,7 +1,7 @@
 ---
 title: "Test Project"
 layout: post
-date: 2023-11-26 04:11:30 +09:00
+date: 2023-11-26 04:11 +09:00
 tag:
 - test
 image: /assets/images/error.gif
@@ -9,7 +9,8 @@ headerImage: true
 projects: true
 hidden: true
 description: "A test project"
-category: project
+category: projects
+permalink: /projects/:title
 author: bomu
 externalLink: false
 ---
