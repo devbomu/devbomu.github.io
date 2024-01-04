@@ -14,16 +14,16 @@ Also, I enjoy watching Twitch streamer Woowakgood. :)</p>
 
 <ul class="skill-list">
 	<li>Front-end Development</li>
-	<li>ReactJS</li>
+	<li>React</li>
 	<li>JavaScript</li>
 	<li>Flutter</li>
 	<li>Android (Kotlin)</li>
 	<li>HTML</li>
 	<li>CSS</li>
-	<li>ExpressJS</li>
+	<li>Express.js</li>
 	<li>MySQL</li>
 	<li>Python</li>
-	<li>ThreeJS</li>
+	<li>Three.js</li>
 </ul>
 
 <h2>Projects</h2>

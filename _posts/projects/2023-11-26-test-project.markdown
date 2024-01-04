@@ -7,7 +7,6 @@ tag:
 image: /assets/images/error.gif
 headerImage: true
 projects: true
-hidden: true
 description: "A test project"
 category: projects
 permalink: /projects/:title

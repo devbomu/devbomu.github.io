@@ -1,0 +1,50 @@
+---
+title: "ISD Info"
+layout: post
+date: 2022-12-13 18:00 +09:00
+tag:
+- Android
+- Kotlin
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+headerImage: false
+projects: true
+description: "이세계아이돌 정보 확인 애플리케이션"
+category: projects
+permalink: /projects/:title
+author: bomu
+externalLink: false
+---
+
+가상 세계(VR) 아이돌인 '이세계아이돌'의 노래와 각 멤버들의 정보를 모아놓은 안드로이드 애플리케이션입니다.  
+‘스마트 앱 프로그래밍’의 기말 개인 프로젝트로 제작했습니다.
+
+[GitHub](https://github.com/devbomu/ISDInfo)
+
+---
+
+### Main Features
+> 노래 정보 확인
+> 
+> 노래 영상 재생 (YouTube)
+> 
+> 멤버 정보 확인
+
+### Front-end Development
+> Android Studio
+> 
+> Kotlin
+
+### Back-end Development
+> GoormIDE
+> 
+> Node.js (Express.js)
+> 
+> MySQL
+
+---
+
+### Download
+[*ISD-Info.apk*](https://github.com/devbomu/ISDInfo/releases/download/v1.0.0/ISD-Info.apk)
