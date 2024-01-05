@@ -28,11 +28,16 @@ Also, I enjoy watching Twitch streamer Woowakgood. :)</p>
 
 <h2>Projects</h2>
 
+<strong>Individual</strong>
 <ul>
-	<li><a href="https://github.com/Easy-Do-Track">Easy Do Track</a></li>
-	<li><a href="https://github.com/devbomu/Kumoh-Mail-Notifier">Kumoh Mail Notifier</a></li>
-	<li><a href="https://github.com/devbomu/Twitch-IRC-Test">Twitch IRC Test Project</a></li>
-	<li><a href="https://github.com/dormitoryClicker">Dormitory Clicker</a></li>
-	<li><a href="https://github.com/manmenmi-nice/smart-doorlock">Smart Doorlock</a></li>
-	<li><a href="https://github.com/devbomu/ISDInfo">ISDInfo</a></li>
+	<li><a href="https://bomu.dev/projects/kumoh-mail-notifier">Kumoh Mail Notifier</a></li>
+	<li><a href="https://bomu.dev/projects/twitch-irc-test">Twitch IRC Test Project</a></li>
+	<li><a href="https://bomu.dev/projects/isd-info">ISD Info</a></li>
+</ul>
+
+<strong>Team</strong>
+<ul>
+	<li><a href="https://bomu.dev/projects/easy-do-track">Easy Do Track</a></li>
+	<li><a href="https://bomu.dev/projects/smart-doorlock">Smart Doorlock</a></li>
+	<li><a href="https://bomu.dev/projects/dormitory-clicker">Dormitory Clicker</a></li>
 </ul>
