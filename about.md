@@ -31,7 +31,7 @@ Also, I enjoy watching Twitch streamer Woowakgood. :)</p>
 <strong>Individual</strong>
 <ul>
 	<li><a href="https://bomu.dev/projects/kumoh-mail-notifier">Kumoh Mail Notifier</a></li>
-	<li><a href="https://bomu.dev/projects/twitch-irc-test">Twitch IRC Test Project</a></li>
+	<li><a href="https://bomu.dev/projects/twitch-irc-test">Twitch IRC Test</a></li>
 	<li><a href="https://bomu.dev/projects/isd-info">ISD Info</a></li>
 </ul>
 
