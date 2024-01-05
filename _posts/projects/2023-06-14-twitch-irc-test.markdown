@@ -3,6 +3,7 @@ title: "Twitch IRC Test"
 layout: post
 date: 2023-06-14 20:00 +09:00
 tag:
+- Test
 - Twitch
 - JavaScript
 - Node.js

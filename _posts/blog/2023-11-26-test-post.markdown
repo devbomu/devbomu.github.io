@@ -1,20 +1,20 @@
 ---
-title: "Test Project"
+title: "Test Post"
 layout: post
 date: 2023-11-26 04:11 +09:00
 tag:
-- test
+- Test
 image: /assets/images/error.gif
 headerImage: true
-projects: true
-description: "A test project"
-category: projects
-permalink: /projects/:title
+projects: false
+description: "A post for blog test"
+category: blog
+permalink: /blog/:title
 author: bomu
 externalLink: false
 ---
 
-That's right, this is a test project.
+That's right, this is a test post.
 
 That means it's nothing.
 
