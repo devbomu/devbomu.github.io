@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 <section class="list">
+    <a class="url" href="https://github.com/devbomu/devbomu.github.io/new/master/_posts/projects"
+	style="text-align: right;">
+		<h4><i class="fa-solid fa-feather fa-xl"></i></h4>
+	</a>
     {% for post in site.posts %}
         {% if post.projects %}
             {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
