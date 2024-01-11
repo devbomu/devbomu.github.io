@@ -1,7 +1,7 @@
 ---
 title: "Kumoh Mail Notifier"
 layout: post
-date: 2023-07-24 20:00 +09:00
+date: 2023-07-24 20:00
 tag:
 - Python
 - Selenium

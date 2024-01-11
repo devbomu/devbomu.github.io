@@ -1,7 +1,7 @@
 ---
 title: "Smart Doorlock"
 layout: post
-date: 2022-12-20 18:00 +09:00
+date: 2022-12-20 18:00
 tag:
 - Embedded System
 - Raspberry Pi

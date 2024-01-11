@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 layout: post
-date: 2023-11-26 02:28 +09:00
+date: 2023-11-26 02:28
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

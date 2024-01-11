@@ -1,7 +1,7 @@
 ---
 title: "Dormitory Clicker"
 layout: post
-date: 2022-12-08 18:00 +09:00
+date: 2022-12-08 18:00
 tag:
 - Flutter
 - JavaScript

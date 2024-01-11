@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 layout: post
-date: 2023-11-26 04:11 +09:00
+date: 2023-11-26 04:11
 tag:
 - Test
 image: /assets/images/error.gif

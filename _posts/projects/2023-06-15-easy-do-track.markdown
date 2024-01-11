@@ -1,7 +1,7 @@
 ---
 title: "Easy Do Track"
 layout: post
-date: 2023-06-15 20:00 +09:00
+date: 2023-06-15 20:00
 tag:
 - Embedded System
 - Raspberry Pi
